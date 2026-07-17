@@ -1,0 +1,6 @@
+{
+  "name": "Tuition Diary",
+  "description": "A comprehensive system for tutors and students to manage classes, attendance, assignments, fees, study materials, and results.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
